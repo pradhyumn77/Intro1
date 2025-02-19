@@ -1,0 +1,36 @@
+  <html>
+    <head>
+    <title>Cybrom</title>
+    </head>
+        <body>
+        <b>Hello world I am from cybrom</b>
+        <i>okay and you are from??</i>
+        Block tag => it occupies the whole line ...like h1 to h6 
+        Inline tag=> it occupies a desired space only ....like <b> block tag ,<i> inline tag
+        </body> 
+  </html>
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title>
+Cybromm
+</title>
+</head>
+<body>  
+<h1>Introduction</h1>
+<br></br>
+<h2>Name</h2>
+My name is Pradhyumn .
+Currently I am pursuing B tech in CSE core from VIT BHOPAL
+<br></br>
+<h2>Residence</h2>
+I reside in <span style="color: red;">BHOPAL</span>
+</body>
+    </html>
